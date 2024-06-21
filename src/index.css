@@ -11,3 +11,48 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#navbar-indicator{
+  font-size: large;
+  font-family:'Times New Roman', Times, serif;
+  color: white;
+  word-spacing: 4px;
+  position: relative;
+  left: 10px;
+  top: 1px;
+}
+
+#navbar-links{
+  color: gray;
+  position: absolute;
+  left: 85px;
+  word-spacing: 10px;
+  width: 20px;
+}
+
+#home{
+  position: relative;
+  top: 24px;
+}
+
+#about{
+  position: relative;
+  left: 53px;
+}
+
+#contact{
+  position: relative;
+  left: 112px;
+  bottom: 24px;
+}
+
+#home:hover, #about:hover, #contact:hover{
+  color:white;
+  cursor: pointer;
+}
+
+#search-box{
+  position: relative;
+  left:-16px;
+  top: 2px;
+}
