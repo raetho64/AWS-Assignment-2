@@ -56,3 +56,19 @@ code {
   left:-16px;
   top: 2px;
 }
+
+#card1{
+  background-color: red;
+}
+
+#card2{
+  background-color: aqua;
+}
+
+#card3{
+  background-color: green;
+}
+
+.card:hover{
+  cursor: pointer;
+}

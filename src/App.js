@@ -1,6 +1,7 @@
 
 import './App.css';
 import Navbar from './Navbar';
+import Card from './Card';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <h2>Section - 02</h2>
       <p>WVU ID: 800379550</p>
       <p>Hi I am Raekwon Thomas</p>
+      <Card/>
     </div>
   );
 }
