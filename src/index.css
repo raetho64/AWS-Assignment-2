@@ -52,9 +52,14 @@ code {
 }
 
 #search-box{
-  position: absolute;
+  position: relative;
   left:-16px;
   top: 2px;
+}
+
+#navbar-search{
+  position: relative;
+  left: 1580px;
 }
 
 #card1{
