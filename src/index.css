@@ -58,7 +58,7 @@ code {
 }
 
 #navbar-search{
-  position: relative;
+  position: absolute;
   left: 1580px;
 }
 
