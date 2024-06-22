@@ -57,6 +57,11 @@ code {
   top: 2px;
 }
 
+#navbar-search{
+  position: relative;
+  left: 1580px;
+}
+
 #card1{
   background-color: red;
 }
