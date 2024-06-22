@@ -52,7 +52,7 @@ code {
 }
 
 #search-box{
-  position: relative;
+  position: absolute;
   left:-16px;
   top: 2px;
 }
